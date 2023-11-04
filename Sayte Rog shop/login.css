@@ -1,0 +1,83 @@
+#background{
+    background-image: url(pic/bagrond.jpg);
+    background-size: 100%100%;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+#login{
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    width: 360px;
+    height: 450px;
+    text-align: center;
+    border-radius: 10px;
+}
+#user{
+
+    width: 320px;
+    height: 40px;
+    margin: 10px;
+    text-align: center;
+    
+}
+#phone{
+    width: 320px;
+    height: 40px;
+    margin: 10px;
+    text-align: center;
+    
+}
+#pass{
+    width: 320px;
+    height: 40px;
+    margin: 10px;
+    text-align: center;
+}
+#inputuser{
+    font-family: Arial Black;
+    width: 243px;
+    height: 25px;
+    border-radius: 20PX;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+#inphone{
+    font-family: Arial rgb(0, 0, 0);
+    text-align: center;
+    width: 243px;
+    height: 25px;
+    border-radius: 20PX;
+    background-color: rgb(255, 255, 255);
+}
+#inputpass{
+    font-family: Arial Black;
+    text-align: center;
+    width: 243px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20PX;
+}
+#kod-amniati{
+    width: 280px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 50px;
+}
+#in-cod{
+    height: 30px;
+    margin: 15px;
+    text-align: center;
+    border-radius: 15px;
+}
+#btnlogin{
+    width: 350px;
+    height: 35px;
+    border-radius: 20px;
+    border: 0px;
+}
+#btnlogin:hover{
+    background-color: darkblue;
+    color: red;
+    
+}

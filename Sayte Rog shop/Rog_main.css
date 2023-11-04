@@ -1,0 +1,139 @@
+h1{
+    color: rgb(255, 255, 255); margin: 0px;height: 0px;font-family: Urdu Typesetting; 
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+font-size: 20px;
+font-family: Traditional Arabic;
+background-color: rgb(red, rgb(0, 255, 0), rgb(0, 0, 255));
+text-shadow: 15px 15px 5px;
+}
+
+li {
+float: left;
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover {
+background-color: #000000;
+}
+sub{
+    color: aliceblue;
+    float: right;padding: 12px;
+    font-size: 24px;
+}
+#main_body{
+background-image: url(pic/bagrond.jpg);
+background-size: 100%100%;
+background-attachment: fixed;
+overflow-x: hidden;
+}
+#main_head{
+font-size: 37px;
+ color: rgb(255, 255, 255) ;
+text-align: center;font-family: Castellar;
+padding: 1px;
+text-shadow: 15px 15px 4px;
+}
+ #freefireid{
+    padding: 10px;
+    width: 1170px;
+    height: 200px;
+    display: inline-block;
+}
+#btnfreeid{
+    border-width: 0px;
+    padding: 0px ;
+}
+#mtnfreeid{
+    color: rgb(255, 255, 255);
+     margin: 0px;
+     height: 0px;
+     font-family: Urdu Typesetting;
+}
+#freefireac{
+    padding: 10px;
+    height: 200px;
+    width: 0px;
+    text-align: right;
+    display: inline-block; top: 55px;
+}
+#btnfreeac{
+    padding: 0%;
+    border-width: 0px;
+}
+#mtnfreeac{
+    color: rgb(255, 255, 255);
+     margin: 0px;height: 0px;
+     font-family: Urdu Typesetting;
+}
+#callof{
+    
+    padding: 10px;
+    width: 1170px;
+    height: 200px;
+    display: inline-block;
+}
+#callofbtn{
+    border-width: 0px;
+    padding: 0px;
+     font-family: Urdu Typesetting;
+}
+#mtncallof{
+    color: rgb(255, 255, 255);
+     margin: 0px;
+     height: 0px;
+     font-family: Urdu Typesetting;
+}
+#pubg{
+    padding: 10px;
+    height: 200px;
+    width: 0px;
+    text-align: right;
+    display: inline-block; top: 55px;
+}
+#pubgbtn{
+    padding: 0%;
+    border-width: 0px;
+}
+#pubgmtn{
+    color: rgb(255, 255, 255);
+    margin: 0px;height: 0px;
+    font-family: Urdu Typesetting;
+}
+#froshgah{
+    color: aliceblue;
+    text-align: right;
+    font-size: x-large;
+}
+#mtnfroshgah{
+    text-align: right;
+    color: aliceblue;
+}
+#ertebat{
+    color: aliceblue;
+    text-align: right;
+}
+#styleertebat{
+    text-align: left;
+}
+#mtnertebat{
+    color: blue;
+    display: block
+}
+#mtnertebat2{
+    color: rgb(255, 0, 0);
+    display: block;
+}
+#mtnertebat3{
+    color: rgb(0, 255, 0);
+    display: block;
+}

@@ -1,0 +1,136 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(red, rgb(0, 255, 0), rgb(0, 0, 255));
+    }
+    
+    li {
+    float: left;
+    }
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    li a:hover {
+    background-color: #000000;
+}
+#ul{
+    font-size: 20px;
+    font-family: Traditional Arabic;
+}
+#serch{
+    top: 15px;position: relative;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+#btnserch{
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    padding: 4px;
+    margin: 2px;
+    background-image: url(pic/icons8-search-64.png);
+    background-size: 100%100%;
+}
+#body{
+    background-image: url(pic/garena-free-fire-red-logo-4k-red-brickwall-free-fire-logo-2020-games.jpg);
+    background-size: 100%100%;
+    background-attachment: fixed;
+     overflow-x: hidden;
+}
+#rog{
+    text-shadow: 15px 15px 3px;
+    font-size: 37px;
+     color: rgb(221, 255, 0) ;
+     text-align: center;
+     font-family: Castellar;
+     padding: 1px;
+}
+img{
+    border-radius: 50px;
+    height:180px;
+    width:320px;
+}
+#valed{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+}
+#gem1{
+    padding: 32px;
+    flex-grow: 1;
+    text-align: center;
+}
+#gem1btn{
+    border-width: 0px;
+    padding: 0px ;
+    border-radius: 50px;
+}
+#mtngem1{
+    margin: 0px;
+    height: 0px;
+    color: #00aaff;
+    text-align: center;
+    font-size: 22px;
+    font-family:Urdu Typesetting ;
+    background-size: 0px;
+}
+#gem2{
+    padding: 32px;
+    flex-grow: 1;
+    text-align: center;
+}
+#gem2btn{
+    border-width: 0px;
+    padding: 0px ;
+    border-radius: 50px;
+}
+#mtngem2{
+    margin: 0px;
+    height: 0px;
+    color: #00aaff;
+    text-align: center;
+    font-size: 22px;
+    font-family:Urdu Typesetting ;
+    background-size: 0px;
+}
+#gem3{
+    padding: 32px;
+    flex-grow: 1;
+    text-align: center;
+}
+#gem3btn{
+    border-width: 0px;
+    border-radius: 50px;
+    padding: 0px ;
+}
+#mtngem3{
+    margin: 0px;
+    height: 0px;
+    color: #00aaff;
+    text-align: center;
+    font-size: 22px;
+    font-family:Urdu Typesetting ;
+    background-size: 0px;
+}
+#valed2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+}
+#gem4{
+    padding: 32px;
+    flex-grow: 1;
+    text-align: center;
+}
+#gem4btn{
+    border-width: 0px;
+    padding: 0px ;
+    border-radius: 50px;
+}

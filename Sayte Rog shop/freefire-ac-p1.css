@@ -1,0 +1,208 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(red, rgb(0, 255, 0), rgb(0, 0, 255));
+    }
+    
+    li {
+    float: left;
+    }
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    li a:hover {
+    background-color: #000000;
+}
+#ul{
+    font-size: 20px;
+    font-family: Traditional Arabic;
+}
+#serch{
+    top: 15px;position: relative;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+#btnserch{
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    padding: 4px;
+    margin: 2px;
+    background-image: url(pic/icons8-search-64.png);
+    background-size: 100%100%;
+}
+#body{
+    background-image: url(pic/garena-free-fire-red-logo-4k-red-brickwall-free-fire-logo-2020-games.jpg);
+    background-size: 100%100%;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+#rog{
+    text-shadow: 15px 15px 3px;
+    font-size: 37px;
+     color: rgb(221, 255, 0) ;
+     text-align: center;
+     font-family: Castellar;
+     padding: 1px;
+}
+img{
+    border-radius: 50px;
+    height:20%;
+    width:25%;
+}
+#valedp1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+}
+#gem100{
+    width: 700px;
+    height: 500px;
+}
+#btn100{
+    border-radius: 50px;
+}
+#btn100:hover{
+    background-color: rgb(255, 0, 221);
+}
+#mtn100{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 32px;
+}
+#valedmeghdar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+}
+#meghdar{
+    padding: 4%;
+ text-align: right;
+}
+#btnmeghdark{
+    background-color: #000000;
+    width: 100px;
+    height: 50px;
+}
+#btnmeghdark:hover{
+    background-color: red;
+}
+#p{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+}
+#putmeghdar{
+    width: 400px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+#btnmeghdarz{
+    width: 100px;
+    height: 50px;
+    background-color: #ffffff;
+}
+#btnmeghdarz:hover{
+    background-color: rgb(0, 255, 0);
+}
+#m{
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+#sabad{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(61, 61, 61);
+}
+#mtnsabad{
+    color: white;
+    font-size: 24px;
+}
+#sabad:hover{
+    background-color: rgb(0, 255, 221);
+}
+img{
+    border-radius: 50px;
+    height:240px;
+    width:360px;
+}
+#valed{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+}
+#gem1{
+    padding: 32px;
+    flex-grow: 1;
+    text-align: center;
+}
+#gem1btn{
+    border-width: 0px;
+    padding: 0px ;
+    border-radius: 50px;
+}
+#gem1btn:hover{
+    background-color: rgb(226, 0, 75);
+    }
+#mtngem1{
+    margin: 0px;
+    height: 0px;
+    color: #00aaff;
+    text-align: center;
+    font-size: 22px;
+    font-family:Urdu Typesetting ;
+    background-size: 0px;
+}
+#gem2{
+    padding: 32px;
+    flex-grow: 1;
+    text-align: center;
+}
+#gem2btn{
+    border-width: 0px;
+    padding: 0px ;
+    border-radius: 50px;
+}
+#gem2btn:hover{
+    background-color: rgb(226, 0, 75);
+    }
+#mtngem2{
+    margin: 0px;
+    height: 0px;
+    color: #00aaff;
+    text-align: center;
+    font-size: 22px;
+    font-family:Urdu Typesetting ;
+    background-size: 0px;
+}
+#gem3{
+    padding: 32px;
+    flex-grow: 1;
+    text-align: center;
+}
+#gem3btn{
+    border-width: 0px;
+    border-radius: 50px;
+    padding: 0px ;
+}
+#gem3btn:hover{
+background-color: rgb(226, 0, 75);
+}
+#mtngem3{
+    margin: 0px;
+    height: 0px;
+    color: #00aaff;
+    text-align: center;
+    font-size: 22px;
+    font-family:Urdu Typesetting ;
+    background-size: 0px;
+}

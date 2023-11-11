@@ -45,7 +45,7 @@ text-shadow: 15px 15px 4px;
 }
  #freefireid{
     padding: 10px;
-    width: 1170px;
+    width: 750px;
     height: 200px;
     display: inline-block;
 }
@@ -58,6 +58,22 @@ text-shadow: 15px 15px 4px;
      margin: 0px;
      height: 0px;
      font-family: Urdu Typesetting;
+}
+#kharid{
+    padding: 10px;
+    width: 750px;
+    height: 200px;
+    display: inline-block;
+}
+#kharidbtn{
+    border-width: 0px;
+    padding: 0px ;
+}
+#mtnkharid{
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    height: 0px;
+    font-family: Urdu Typesetting;
 }
 #freefireac{
     padding: 10px;
@@ -78,7 +94,7 @@ text-shadow: 15px 15px 4px;
 #callof{
     
     padding: 10px;
-    width: 1170px;
+    width: 750px;
     height: 200px;
     display: inline-block;
 }
@@ -92,6 +108,22 @@ text-shadow: 15px 15px 4px;
      margin: 0px;
      height: 0px;
      font-family: Urdu Typesetting;
+}
+#kharidac{
+    padding: 10px;
+    width: 750px;
+    height: 200px;
+    display: inline-block;
+}
+#kharidacbtn{
+    border-width: 0px;
+    padding: 0px ;
+}
+#mtnkharidac{
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    height: 0px;
+    font-family: Urdu Typesetting;
 }
 #pubg{
     padding: 10px;

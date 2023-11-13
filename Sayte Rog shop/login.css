@@ -4,80 +4,66 @@
     background-attachment: fixed;
     overflow-x: hidden;
 }
+#rog{
+    text-shadow: 15px 15px 3px;
+    font-size: 37px;
+     color: rgb(221, 255, 0) ;
+     text-align: center;
+     font-family: Castellar;
+     padding: 1px;
+}
+#valed{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+    
+}
 #login{
     background-color: rgb(255, 255, 255);
-    display: inline-block;
-    width: 360px;
-    height: 450px;
-    text-align: center;
-    border-radius: 10px;
+    padding: 2%;
+    border-radius: 30px;
 }
 #user{
-
-    width: 320px;
-    height: 40px;
-    margin: 10px;
     text-align: center;
-    
+    color: black;
+    padding: 2%;
+    margin: 2%;
 }
-#phone{
-    width: 320px;
-    height: 40px;
-    margin: 10px;
-    text-align: center;
-    
-}
-#pass{
-    width: 320px;
-    height: 40px;
-    margin: 10px;
-    text-align: center;
-}
-#inputuser{
-    font-family: Arial Black;
-    width: 243px;
-    height: 25px;
-    border-radius: 20PX;
-    background-color: rgb(255, 255, 255);
-    text-align: center;
-    
-}
-#inphone{
-    font-family: Arial rgb(0, 0, 0);
-    text-align: center;
-    width: 243px;
-    height: 25px;
-    border-radius: 20PX;
-    background-color: rgb(255, 255, 255);
-}
-#inputpass{
-    font-family: Arial Black;
-    text-align: center;
-    width: 243px;
-    height: 25px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 20PX;
-}
-#kod-amniati{
-    width: 280px;
-    height: 100px;
-    margin: 20px;
+#putuser{
     border-radius: 50px;
-}
-#in-cod{
-    height: 30px;
-    margin: 15px;
+    padding: 2%;
     text-align: center;
+    width: 90%;
+}
+#putuser:hover{
+    background-color: aqua;
+}
+#btncreate{
+    text-align: center;
+}
+#Create{
     border-radius: 15px;
+    width: 95%;
+}
+#Cr{
+    margin: 2%;
+    border-radius: 15px;
+    width: 95%;
+}
+#Create:hover{
+    background-color: rgb(72, 255, 0);
+}
+#login2{
+    text-align: center;
+    margin: 2%;
 }
 #btnlogin{
-    width: 350px;
-    height: 35px;
-    border-radius: 20px;
-    border: 0px;
+    border-radius: 15px;
+    width: 100%;
 }
 #btnlogin:hover{
-    background-color: darkblue;
-    color: red;
-    
+    background-color: rgb(200, 255, 0);
+}
+#Cr:hover{
+    background-color: red;
 }

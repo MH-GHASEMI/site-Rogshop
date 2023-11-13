@@ -1,0 +1,67 @@
+#background{
+    background-image: url(pic/bagrond.jpg);
+    background-size: 100%100%;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+#rog{
+    text-shadow: 15px 15px 3px;
+    font-size: 37px;
+     color: rgb(221, 255, 0) ;
+     text-align: center;
+     font-family: Castellar;
+     padding: 1px;
+}
+#valed{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+    
+}
+#cr-log{
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+    border-radius: 30px;
+}
+#user{
+    color: black;
+    padding: 2%;
+    margin: 2%; 
+    text-align: center;
+}
+#putuser:hover{
+    background-color: black;
+}
+#userp{
+    color: black;
+    padding: 2%;
+    margin: 2%; 
+    text-align: center;
+}
+#putuser{
+    border-radius: 50px;
+    padding: 2%;
+    text-align: center;
+    width: 90%;
+    margin: 2%;
+    color: rgb(4, 0, 255);
+}
+#btnCr{
+    border-radius: 15px;
+    width: 100%;
+    padding: 2%;
+    margin: 1%;
+    text-align: center;
+}
+#btnCr:hover{
+background-color: rgb(255, 0, 157);
+}
+#btnsakht{
+    border-radius: 15px;
+    width: 100%;
+    padding: 2%;
+    margin: 2%;
+}
+#btnsakht:hover{
+    background-color: green;
+}

@@ -147,7 +147,7 @@ img{
 }
 #gem1btn{
     border-width: 0px;
-    padding: 0px ;
+    padding: 10% ;
     border-radius: 50px;
 }
 #gem1btn:hover{
@@ -156,7 +156,7 @@ img{
 #mtngem1{
     margin: 0px;
     height: 0px;
-    color: #00aaff;
+    color: #000000;
     text-align: center;
     font-size: 22px;
     font-family:Urdu Typesetting ;
@@ -169,7 +169,7 @@ img{
 }
 #gem2btn{
     border-width: 0px;
-    padding: 0px ;
+    padding: 10% ;
     border-radius: 50px;
 }
 #gem2btn:hover{
@@ -178,7 +178,7 @@ img{
 #mtngem2{
     margin: 0px;
     height: 0px;
-    color: #00aaff;
+    color: #000000;
     text-align: center;
     font-size: 22px;
     font-family:Urdu Typesetting ;
@@ -192,7 +192,7 @@ img{
 #gem3btn{
     border-width: 0px;
     border-radius: 50px;
-    padding: 0px ;
+    padding: 10% ;
 }
 #gem3btn:hover{
 background-color: rgb(226, 0, 75);
@@ -200,7 +200,7 @@ background-color: rgb(226, 0, 75);
 #mtngem3{
     margin: 0px;
     height: 0px;
-    color: #00aaff;
+    color: #000000;
     text-align: center;
     font-size: 22px;
     font-family:Urdu Typesetting ;

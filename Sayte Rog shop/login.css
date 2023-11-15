@@ -34,9 +34,10 @@
     padding: 2%;
     text-align: center;
     width: 90%;
+    color: blue;
 }
 #putuser:hover{
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
 }
 #btncreate{
     text-align: center;
@@ -66,4 +67,10 @@
 }
 #Cr:hover{
     background-color: red;
+}
+#send{
+    border-radius: 50px;
+    margin: 2%;
+    padding: 1%;
+    width: 95%;
 }

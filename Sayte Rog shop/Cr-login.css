@@ -54,7 +54,7 @@
     text-align: center;
 }
 #btnCr:hover{
-background-color: rgb(255, 0, 157);
+background-color: rgb(255, 0, 0);
 }
 #btnsakht{
     border-radius: 15px;
@@ -63,5 +63,5 @@ background-color: rgb(255, 0, 157);
     margin: 2%;
 }
 #btnsakht:hover{
-    background-color: green;
+    background-color: rgb(0, 255, 0);
 }

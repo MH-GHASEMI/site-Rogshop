@@ -69,13 +69,13 @@ img{
 }
 #gem1btn{
     border-width: 0px;
-    padding: 0px ;
+    padding: 10% ;
     border-radius: 50px;
 }
 #mtngem1{
     margin: 0px;
     height: 0px;
-    color: #00aaff;
+    color: #000000;
     text-align: center;
     font-size: 22px;
     font-family:Urdu Typesetting ;
@@ -88,13 +88,13 @@ img{
 }
 #gem2btn{
     border-width: 0px;
-    padding: 0px ;
+    padding: 10% ;
     border-radius: 50px;
 }
 #mtngem2{
     margin: 0px;
     height: 0px;
-    color: #00aaff;
+    color: #000000;
     text-align: center;
     font-size: 22px;
     font-family:Urdu Typesetting ;
@@ -108,29 +108,23 @@ img{
 #gem3btn{
     border-width: 0px;
     border-radius: 50px;
-    padding: 0px ;
+    padding: 10% ;
 }
 #mtngem3{
     margin: 0px;
     height: 0px;
-    color: #00aaff;
+    color: #000000;
     text-align: center;
     font-size: 22px;
     font-family:Urdu Typesetting ;
     background-size: 0px;
 }
-#valed2{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:center ;
+#gem3btn:hover{
+    background-color: blue;
 }
-#gem4{
-    padding: 32px;
-    flex-grow: 1;
-    text-align: center;
+#gem1btn:hover{
+    background-color: blue;
 }
-#gem4btn{
-    border-width: 0px;
-    padding: 0px ;
-    border-radius: 50px;
+#gem2btn:hover{
+    background-color: blue;
 }

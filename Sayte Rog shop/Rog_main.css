@@ -46,6 +46,7 @@ text-shadow: 15px 15px 4px;
 img{
     width: 300px;
     height: 150px;
+    border-radius: 10px;
 }
 #valed{
     display: flex;
